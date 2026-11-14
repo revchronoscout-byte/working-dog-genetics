@@ -1,0 +1,30 @@
+# Raw and processed genotype data (large; download per data/README.md)
+data/raw/
+data/processed/
+
+# PLINK outputs and logs
+*.bed
+*.bim
+*.fam
+*.log
+*.nosex
+*.hh
+*.prune.in
+*.prune.out
+*.eigenval
+*.eigenvec
+*.hom
+*.hom.indiv
+*.hom.summary
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
