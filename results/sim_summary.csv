@@ -1,0 +1,6 @@
+scenario,clone_share,donors,F_gen15_mean,F_gen15_sd,Ne_estimate
+No cloning,0.0,0,0.0347,0.0029,212.8
+"25% clones, 10 donors",0.25,10,0.0488,0.0053,150.1
+"25% clones, 2 donors",0.25,2,0.2433,0.0107,27.2
+"50% clones, 10 donors",0.5,10,0.0502,0.0053,146.0
+"50% clones, 2 donors",0.5,2,0.2493,0.0091,26.4
